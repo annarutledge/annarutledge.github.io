@@ -1508,7 +1508,7 @@ input, select, textarea {
 /* Form */
 
 	form label {
-		color: #3e3e3e;
+		color: #000066;
 		font-weight: 700;
 		display: block;
 		margin: 0 0 0.5em 0;
@@ -1554,7 +1554,7 @@ input, select, textarea {
 	}
 
 	form ::-webkit-input-placeholder {
-		color: #555 !important;
+		color: rgb(85, 85, 85) !important;
 	}
 
 	form :-moz-placeholder {
