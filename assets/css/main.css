@@ -1554,7 +1554,7 @@ input, select, textarea {
 	}
 
 	form ::-webkit-input-placeholder {
-		color: rgb(85, 85, 85) !important;
+		color: #000066 !important;
 	}
 
 	form :-moz-placeholder {
